@@ -1,7 +1,7 @@
 # LiveTSE-version
 
 ``` json
-  {
+{
   "version_name": "v1.0.0",
   "version_code": 8,
   "update_url": "https://aryasarmaye.ir/products/livetse",
